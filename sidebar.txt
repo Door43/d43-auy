@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auy:home|Door43 (auy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auy|d43-auy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auy/archive/master.zip|d43-auy.zip]]
+
+**Recent Changes**
+{{changes>ns = auy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auy|Ethnologue data]]
+
